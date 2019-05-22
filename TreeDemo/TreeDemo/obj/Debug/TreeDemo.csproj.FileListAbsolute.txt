@@ -1,0 +1,7 @@
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\TreeDemo\TreeDemo\bin\Debug\TreeDemo.exe.config
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\TreeDemo\TreeDemo\bin\Debug\TreeDemo.exe
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\TreeDemo\TreeDemo\bin\Debug\TreeDemo.pdb
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\TreeDemo\TreeDemo\obj\Debug\TreeDemo.csprojAssemblyReference.cache
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\TreeDemo\TreeDemo\obj\Debug\TreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\TreeDemo\TreeDemo\obj\Debug\TreeDemo.exe
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\TreeDemo\TreeDemo\obj\Debug\TreeDemo.pdb
