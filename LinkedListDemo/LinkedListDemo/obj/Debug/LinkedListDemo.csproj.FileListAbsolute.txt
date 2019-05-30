@@ -1,0 +1,7 @@
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\LinkedListDemo\LinkedListDemo\bin\Debug\LinkedListDemo.exe.config
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\LinkedListDemo\LinkedListDemo\bin\Debug\LinkedListDemo.exe
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\LinkedListDemo\LinkedListDemo\bin\Debug\LinkedListDemo.pdb
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\LinkedListDemo\LinkedListDemo\obj\Debug\LinkedListDemo.csprojAssemblyReference.cache
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\LinkedListDemo\LinkedListDemo\obj\Debug\LinkedListDemo.csproj.CoreCompileInputs.cache
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\LinkedListDemo\LinkedListDemo\obj\Debug\LinkedListDemo.exe
+C:\Users\MACRE\Documents\Visual Studio 2017\Projects\LinkedListDemo\LinkedListDemo\obj\Debug\LinkedListDemo.pdb
